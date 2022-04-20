@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * ALAN FILIPE LOPES MENDES
 * ALISSON ANDERSON DE CARVALHO
-* Nome completo do aluno 3
+* DANIEL DE OLIVEIRA MARCELINO
 * LUIZ FERNANDO RIBEIRO FERREIRA
 
 ## Orientador
