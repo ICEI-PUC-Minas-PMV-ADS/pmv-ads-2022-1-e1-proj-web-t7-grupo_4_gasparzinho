@@ -1,33 +1,26 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
-
+Átila Gonçalves, possui 44 anos e empreende desde muito cedo, já se embarcou em diversos ramos comerciais, mas a idealização de um empreendimento no ramo de Fast Food e do sucesso nas vendas de seus produtos, sempre foi a ideia principal. Deste sonho, nasceu a hamburgueria Gasparzinho, no ano de 2013. Desde sua abertura, os sanduíches são sempre muito elogiados e os clientes sempre retornam ao espaço físico destinado às vendas. Porém, com o passar do tempo e também devido a pandemia da COVID19, surgiu a necessidade de expandir o alcance de consumidores de forma remota, aumentar a demanda e, consequentemente, a lucratividade.
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+O problema é a falta de divulgação da hamburgueria, para abranger outras regiões, facilitar a experiência do cliente ao consumir os produtos e aumentar o lucro da 
+empresa.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+Expandir a divulgação da sua hamburgueria através do site, divulgar os produtos de forma detalhada, dando visibilidade a qualidade dos itens utilizados na preparação dos hambúrgueres e conquistar clientes de outras regiões com a opção de solicitar o pedido de forma remota e com entrega rápida
+Como objetivos específicos, podemos ressaltar:
+⦁ Maior visibilidade e divulgação da hamburgueria através do site; maior apresentação dos produtos de forma detalhada visando a qualidade dos itens utilizados nas preparações;
+⦁expansão na entrega para outras regiões fora do raio da hamburgueria; prospecção e fidelização de novos clientes além da criação de um facilitador nos pedidos de
+hambúrgueres de forma remota e mais ágil.
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
-
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Segundo pesquisa realizada pela Corebiz, empresa de inteligência para marca de varejo, o número de pedido de fast food realizados para entrega nas residências teve um aumento de aproximadamente 77% desde o início da pandemia da COVID19.Esse fato pode ser explicado devido a necessidade do isolamento social para combate a doença, mas também pela praticidade, economia de tempo, poder comer algo diferente e saboroso, não ter que se deslocar até o estabelecimento, entre outros motivos. 
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
