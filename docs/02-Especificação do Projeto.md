@@ -1,26 +1,14 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
+O ponto relevante desse projeto é a necessidade de expansão e divulgação da empresa, para que seus produtos sejam vendidos de forma remota e entregues no endereço indicado pelo cliente. Conforme entrevista com o Senhor Atila Gonçalves, ocorreu uma redução nas vendas através do espaço físico e esse fato foi agravado devido às restrições da pandemia da COVID-19. Assim, surgiu a necessidade da divulgação dos serviços para um número maior de clientes, abrangendo outras regiões. Isso vai possibilitar o aumento no número de clientes, aumentando a rentabilidade do empreendimento.
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+|   Atila Gonçalves   |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://user-images.githubusercontent.com/97108151/164240211-6fa45779-3d0b-4c6c-b4a5-8485c2ce0656.jpg)|**Idade:** 55 anos - **Ocupação:** Ocupação: Desenvovedora de Software, mãe de 2 filhos e Dona de Casa |Aplicativos: Notion, Agenda Eletônica Google e Instagram.|
+|**Motivações:** Leila trabalha em casa como desenvolvedora de Software. Também cria 2 filhos menores e cuida do lar. Para desenvolver afeto e responsabilidade nas crianças, Maria os presenteou com um cachorro de raça Golden Retriever.  |**Frustrações:** A ida regular ao veterinário e a correta vacinação são imprescindíveis para a saúde do Golden Retriever. A raça é propensa a desenvolver diversas doenças ao longo da vida. Leila trabalha o dia todo e cria 2 crianças. Ela precisa de auxílio para acompanhar o desenvolvimento do animal doméstico, como marcação de consultas, vacinação e acompanhamento veterinário.|**Hobbies, História:** Como mãe, Maria sabe que os filhos amam animais e quer ensinar-lhes sobre ter responsabilidade. Como desenvolvedora, ela sabe que pode contar com ferramentas tecnológicas modernas para cuidar de animais domésticos, tais como: aplicativos, agendas eletrônicas e sites. Como profissional em ascensão, gosta de buscar recursos que tornem sua vida mais prática e que a auxilie no êxito de suas atividades profissionais e particulares. | 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
