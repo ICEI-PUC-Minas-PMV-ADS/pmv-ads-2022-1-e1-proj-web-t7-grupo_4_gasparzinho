@@ -1,23 +1,25 @@
 # PROJETO HAMBURGUERIA GASPAR
 
-`CURSO`
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-`DISCIPLINA`
+Projeto: Desenvolvimento de Aplicação Web Front-End
 
-`SEMESTRE`
+1º semestre
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* ALAN FILIPE LOPES MENDES
-* ALISSON ANDERSON DE CARVALHO
-* DANIEL DE OLIVEIRA MARCELINO
-* LUIZ FERNANDO RIBEIRO FERREIRA
+* Alan Filipe Lopes Mendes 
+* Alisson Anderson De Carvalho
+* Daniel de Oliveira Marcelino
+*  Davi Ribeiro Santos
+* Luiz Fernando Ribeiro Ferreira
+* Patrick Douglas Dos Santos
 
 ## Orientador
 
-* NATHÁLIA ASSIS VALENTIM
+* Nathalia Assis Valentim
 
 ## Instruções de utilização
 
