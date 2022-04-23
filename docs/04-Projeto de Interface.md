@@ -32,5 +32,4 @@ Logo após realizar o cadastro/login, o usuário, será redirecionado a página 
 
 ## Tela - Administrador
 Na página do administrador da hamburgueria, será possível a inclusão e remoção de produtos, como alteração no cardápio, podendo adicionar e deletar os produtos,definir a abertura e fechamento do restaurante, poderá mudar a ordem que o cardápio está destribuido.
-![image](https://user-images.githubusercontent.com/97108151/164946201-4fc243f9-90d0-4bff-8b3e-4969faa8b742.png)
-
+![PÁGINA 04](https://user-images.githubusercontent.com/97108151/164946430-a9a8c1a0-df79-4d04-9e37-e08c087573df.png)
