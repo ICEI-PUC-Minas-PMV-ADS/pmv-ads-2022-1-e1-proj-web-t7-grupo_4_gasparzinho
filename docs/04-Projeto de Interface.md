@@ -4,7 +4,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
  
 
-## Fluxo do Usuário
+## Fluxo do Usuário/Administrador
 
 
 ![image](https://user-images.githubusercontent.com/97108151/164944907-44f1a4ce-2548-444d-8bef-99ca4a748479.png)
