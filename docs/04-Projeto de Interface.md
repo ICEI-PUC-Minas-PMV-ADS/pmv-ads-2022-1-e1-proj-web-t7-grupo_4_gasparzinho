@@ -1,9 +1,6 @@
 
 # Projeto de Interface
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Na atenção à montagem da interface do sistema, nos concentramos em questões como acessibilidade e usabilidade. Dessa forma, o projeto possui uma identidade visual padronizada em todas as telas projetadas para desktops e dispositivos móveis.
+Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
  
 
@@ -15,17 +12,25 @@ Na atenção à montagem da interface do sistema, nos concentramos em questões 
 ![image](https://user-images.githubusercontent.com/97108151/164944639-e6d65619-a152-43df-b2db-5609cc7a96a0.png)
 
 
-## Wireframes
+## Tela – Página Inicial
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+A página inicial é aonde o usuário terá seu primeiro contato com o site e o usuário poderá partir para a parte de realizar o pedido 
+![image](https://user-images.githubusercontent.com/97108151/164945296-86c34340-dbcb-4cfd-afe4-b5c1d4ee29a3.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+## Tela – Login 
+Na tela de login o usuário poderá acessar seus dados através do e-mail e senha, tendo a possibilidade de se cadastrar caso seja um novo usuário 
+![image](https://user-images.githubusercontent.com/97108151/164945426-ccf5bdf7-fafb-4c4e-b925-b645dcdba381.png)
+
+## Tela – Cadastro
+A tela de cadastro é aonde o usuário fornece  alguns dados pessoais e endereço de entrega para poder assim  dar continuidade ao seu pedido
+![image](https://user-images.githubusercontent.com/97108151/164945929-717660ac-8986-44ea-bada-fc925d5790b7.PNG)
+
+
+## Tela - Cardápio
+Logo após realizar o cadastro/login, o usuário, será redirecionado a página aonde estará o cárdapio com todas as opções disponíveis e poderá fechar o pedido, e selecionar a forma de pagamento
+![image](https://user-images.githubusercontent.com/97108151/164946015-cf599877-7653-4067-8a98-a2b6c00f70c8.png)
+
+## Tela - Administrador
+Na página do administrador da hamburgueria, será possível a inclusão e remoção de produtos, como alteração no cardápio, podendo adicionar e deletar os produtos,definir a abertura e fechamento do restaurante, poderá mudar a ordem que o cardápio está destribuido.
+![image](https://user-images.githubusercontent.com/97108151/164946201-4fc243f9-90d0-4bff-8b3e-4969faa8b742.png)
+
