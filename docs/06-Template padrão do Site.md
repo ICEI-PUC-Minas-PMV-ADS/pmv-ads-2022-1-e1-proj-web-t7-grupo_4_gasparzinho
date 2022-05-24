@@ -1,38 +1,12 @@
 # Template padrão do site
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Gasparzinho</title>
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-   
-<body>
-    
-        <header>
-           
-        </div>
-            <header class="right-login">
-            <div class="card-login">
-            <h1>LOGIN</h1> 
-            <div class="textfield">
-                <label for="usuario">Usuário</label>
-            <input type="text" name="usuario" placeholder="Usuário"> 
-        </div>
-        <div class="textfield">
-            <label for="senha">Senha</label>
-        <input type="password" name="senha" placeholder="Senha"> 
-    </div>
-    <button class="btn-login"><a href="pag002.html">Login</a></button> 
-    
-     </div>
-                
-        
-    </header>
-  
-        
-</body>
-</html>
+<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+
+Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+
+> **Links Úteis**:
+>
+> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
+> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
+> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
+> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
