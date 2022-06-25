@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;900&display=swap" rel="stylesheet"/>
+    <link rel="stylesheet" href="style.css">
+
+    <title>Cardápio - Gasparzinho</title>
+</head>
+<body>
+    <div id="area-cabecalho">
+		
+		<div id="area-logo">
+			<a class="navbar-brand" href="index.html">
+            <img src="Gaspar.png" width="90" height="90">
+        </a>
+		</div>
+		<div id="area-menu">
+			<button type="button" class="btn btn-success">Aberto Agora</button>
+			<button type="button" class="btn btn-danger">Você não está logado!</button>
+			<button type="button" class="btn btn-primary"><a href="login.html">Fazer login</a></button>			
+		</div>
+	</div>	
+<br>
+<details>
+	<summary>Hambúrgueres</summary>
+	<p>
+		<h5>Smash</h5>
+Pão de brioche, hambúrguer 90g, cheddar, bacon e molho americano. Acompanha sachê Heinz.
+<br>
+R$ 25,99
+<hr><p>
+	<h5>Smash Duplo</h5>
+Pão de brioche, 2 hambúrgueres 90g, duplo cheddar, duplo bacon e molho americano. Acompanha sachê Heinz.
+<br>
+R$ 33,99
+<hr>
+<h5>Gaspar Bacon</h5>
+Pão com gergelim, hambúrguer 140g, bacon, queijo prato, maionese de bacon, molho de ervas, alface e tomate. Acompanha fritas, bebida e sachê Heinz.
+<br>
+R$ 35,00
+<hr>
+<h5>Premium</h5>
+Pão com gergelim, 2 Hambúrgueres 140g, duplo bacon, queijo cheddar, queijo mussarela, molho de ervas, cebola, alface e tomate. Acompanha fritas, bebida e sachê Heinz.
+<br>
+R$ 40,00</p>
+</details>
+<!-- Menu 2 -->
+<details>
+	<summary>Molhos</summary>
+	<h5>Barbecue</h5>
+        <p>Sachê Heinz
+        <br>R$ 2,00</p><hr>
+	<h5>Catchup</h5>
+        <p>Sachê Heinz
+        <br>R$ 1,50</p><hr>
+	<h5>Maionese</h5>
+        <p>Sachê Heinz
+        <br>R$ 1,50</p>
+</details>
+<!-- Menu 3 -->
+<details>
+	<summary>Bebidas</summary>
+	<h5>Coca-Cola - 350ml</h5>
+	    <p>R$ 3,00</p><hr>
+    <h5>Guaraná Antarctica - 350ml</h5>
+	    <p>R$ 2,80</p><hr>
+	<h5>Coca-Cola - 2l</h5>
+	    <p>R$ 9,00</p><hr>
+	<h5>Guaraná Antarctica - 2l</h5>
+	   <p>R$ 8,00</p>
+</details>
+<!-- Menu 4 -->
+<details>
+	<summary>Acréscimos</summary>
+	<h5>Bacon</h5>
+		<p>R$ 2,00</p><hr>
+	<h5>Carne de Hambúrguer - 90g</h5>
+		<p>R$ 2,00</p><hr>
+	<h5>Carne de Hambúrguer - 140g</h5>
+	    <p>R$ 3,00</p><hr>
+	<h5>Cheddar</h5>
+	    <p>R$ 2,00</p><hr>
+	<h5>Queijo prato</h5>
+	    <p>R$ 2,00</p>
+</details>
+	</div>
+	<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</body>
+
+<style>
+	body{
+		width: 100%;
+height: 100vh;
+background: url(https://images.unsplash.com/photo-1561758033-7e924f619b47?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+transition: 1s;
+} 
+
+#area-cabecalho{
+background: rgba(255, 255, 255, .2);
+padding: 40px;
+border-radius: 10px;
+font-family: 'Poppins', sans-serif;
+text-align: right;
+margin-top: 5px;
+margin: 5px;
+
+}
+
+
+.navbar-brand{
+float: left;
+margin-block: -30px
+;
+
+}
+
+.btn-primary a{
+text-decoration: none;
+color: #ffff;
+}
+
+details, summary{
+outline: none;
+border-radius: 10px;
+user-select: none;
+list-style: none;
+display: flex;
+padding: 10px;
+}
+
+details {
+outline: none;
+width: 900px;
+margin: 10px auto;
+background: white;
+color: black;
+font-family: 'Poppins', sans-serif;
+padding: 20px;
+font-size: 16px;
+opacity: 90%;
+transition: all 1s ease-in-out; 
+
+}
+
+summary {
+font-family: 'Poppins', sans-serif;
+font-size: 20px;
+
+}
+
+details summary::after {
+content: "+";
+font-size: 19px;
+
+}
+
+details [open] summary::after {
+transform: rotate(45deg);
+}
+
+.navbar-nav {
+background: white;
+width: 900px;
+padding: 0%;
+
+}
+
+#nav-item li {
+display: inline;
+}
+	
+</style>
+</html>
